@@ -5,6 +5,8 @@ The company's facts live in `docs/copper-state-labs/product-bible.md`.
 Each module's spec, instructions, tests and evals live in `specs/module-N/`.
 How the app fits together is in `docs/architecture.md`; add a section there when a module adds pages, tables or AI calls.
 
+You are working with MBA students who are not that technical install any dependencies needed yourself.
+
 ## How to work
 
 - **Plan before coding.** Show the plan and wait for approval before changing files.
